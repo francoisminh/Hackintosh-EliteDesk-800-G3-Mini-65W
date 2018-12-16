@@ -1,9 +1,11 @@
 # Hackintosh-EliteDesk-800-G3-Mini-65W
 Here a the files and script I used for the installation of OS X Mojave on HP EliteDesk 800 G3 Mini
 
-## Description 
+## Description
 Product Name : HP EliteDesk 800 G3 Mini 65W / HP EliteDesk 800 G3 Desktop Mini 65 W
+
 Product N° 1ND88ET#ABF
+
 - CPU : Intel Core i5-6500 3.2 GHz
 - GPU : Intel HD Graphics 530 (Dual Display Port, HDMI)
 - Memory : 2 Slots DDR4-2133
