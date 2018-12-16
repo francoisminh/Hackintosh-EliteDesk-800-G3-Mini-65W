@@ -130,7 +130,9 @@ Check :
 
 Boot argument :
 -lilubetaall
+
 If you have a compatible M.2 Combo Card use this boot argument (Replace FR by your country code)
+
 -lilubetaall brcmfx-country=FR
 
 **Graphics Section**
