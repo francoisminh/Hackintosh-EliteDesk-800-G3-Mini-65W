@@ -121,6 +121,7 @@ SortedOrder
 - ssdt-UIAC.aml (patched ssdt for USB Injection generated)
 
 **Boot Section**
+
 Check :
 - dart=0
 - -disablegfxfirmware
