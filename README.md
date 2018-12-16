@@ -120,7 +120,7 @@ SortedOrder
 - ssdt.aml (patched ssdt for CPU generated)
 - ssdt-UIAC.aml (patched ssdt for USB Injection generated)
 
-** Boot Section**
+**Boot Section**
 Check :
 - dart=0
 - -disablegfxfirmware
@@ -132,7 +132,7 @@ Boot argument :
 If you have a compatible M.2 Combo Card use this boot argument (Replace FR by your country code)
 -lilubetaall brcmfx-country=FR
 
-** Graphics Section**
+**Graphics Section**
 - Inject Intel
 - ig-platform-id : 0x193B0005
 
