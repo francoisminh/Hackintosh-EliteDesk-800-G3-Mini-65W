@@ -1,5 +1,5 @@
 # Hackintosh-EliteDesk-800-G3-Mini-65W
-Here a the files and script I used for the installation of OS X Mojave on HP EliteDesk 800 G3 Mini
+Here a the files and guides I used for the installation of OS X Mojave on HP EliteDesk 800 G3 Mini
 
 ## Description
 Product Name : HP EliteDesk 800 G3 Mini 65W / HP EliteDesk 800 G3 Desktop Mini 65 W
