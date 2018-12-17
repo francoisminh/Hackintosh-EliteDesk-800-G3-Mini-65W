@@ -66,8 +66,10 @@ Customize installation
 
 Download Clover Configurator and copy it on the installation key.
 
-Boot on USB and install Mojave. I chose to format the disk in APFS
-During the installation the system will reboot a couple of times. When the system reboot on the clover screen make sure you **Inject Intel GFX** and set Input **FakeID : 0x19120000.**
+Boot on USB and install Mojave. I chose to format the disk in APFS.
+
+During the installation the system will reboot a couple of times. 
+When the system reboot on the clover screen make sure you **Inject Intel GFX** and set Input **FakeID : 0x19120000.**
 If you don't want to enter these settings on clover boot screen you can edit the config.plist from your installation key and set them.
 
 ## Post Installation
