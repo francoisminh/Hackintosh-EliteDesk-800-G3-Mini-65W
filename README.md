@@ -17,7 +17,7 @@ Product N° 1ND88ET#ABF
 >> Wireless LAN : Replaced Intel M.2 Combo Card with M.2 Combo Card for Lenovo Y50-70 with Broadcom Chipset BCM94352Z NGFF 802.11ac Wifi + Bluetooth 
 
 ## Installation
-###Important Note :
+### Important Note :
 This guide isn't a Vanilla install guide since I couldn't get the BCM94352Z to work with kexts installed on the EFI partition
 For a Vanilla install, simply skip the Wireless LAN part and use a Wifi-Bluetooth USB Key instead
 
