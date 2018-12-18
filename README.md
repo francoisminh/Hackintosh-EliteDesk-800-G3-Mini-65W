@@ -115,8 +115,9 @@ https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/
 **ACPI Section**
 
 Add the following DSDT Patches
-Rename HDAS to HDEF 
-Find : 48444153 
+
+Rename HDAS to HDEF
+Find : 48444153
 Replace with : 48444546
 
 Change SAT0 to SATA
