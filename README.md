@@ -41,6 +41,7 @@ Create an USB Key with Mojave manually or using a software like Diskmaker
 
 ### Installation of Clover on the installation disk
 I used Clover V2.4 Release 4798
+
 Customize installation
 
 **NOTE : These are the settings are for motherboards doesn't support UEFI.**
