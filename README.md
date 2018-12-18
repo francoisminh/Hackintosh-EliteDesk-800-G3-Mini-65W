@@ -13,9 +13,9 @@ Product N° 1ND88ET#ABF
 - Ethernet : Intel I219LM Gigabit Network Connection LOM
 - Wireless LAN : Intel 7265 802.11ac 2x2 Wi-Fi with Bluetooth M.2 Combo Card 
 - Audio : Conexant CX20632 (Internal Speaker, 2 audio out front ports)
-
->> Wireless LAN : Replaced Intel M.2 Combo Card with M.2 Combo Card for Lenovo Y50-70 with Broadcom Chipset BCM94352Z NGFF 802.11ac Wifi + Bluetooth 
-
+```
+Wireless LAN : Replaced Intel M.2 Combo Card with M.2 Combo Card for Lenovo Y50-70 with Broadcom Chipset BCM94352Z NGFF 802.11ac Wifi + Bluetooth 
+```
 ## Known Issues
 Conexant CX20632 requires VoodooHDA.kext which is incompatible with HDMI Audio. If you wish to use HDMI Audio output replace VoodooHDA.kext with AppleALC.kext and inject audio channel 11
 Skylake Sleep issue cause reboot on wake. Disable sleep in Engergy Settings.
@@ -103,14 +103,18 @@ Add the following kext in **/EFI/kexts/Other**
 - USBInjectAll.kext (https://github.com/RehabMan/OS-X-USB-Inject-All)
 
 Use the following guide to generate a patched ssdt for CPU Power Management
+```
 https://www.tonymacx86.com/threads/quick-guide-to-generate-a-ssdt-for-cpu-power-management.177456/
 
+```
 Use the following guide to generate a patched ssdt for injecting USB Port
+```
 https://www.tonymacx86.com/threads/guide-creating-a-custom-ssdt-for-usbinjectall-kext.211311/
-
+```
 If you have a compatible M.2 Combo Card use the following guide
+```
 https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/
-
+```
 #### config.plist
 **ACPI Section**
 
