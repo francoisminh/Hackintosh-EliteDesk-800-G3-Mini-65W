@@ -116,13 +116,13 @@ https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/
 
 Add the following DSDT Patches
 
-Rename HDAS to HDEF
-Find : 48444153
-Replace with : 48444546
+- Rename HDAS to HDEF
+  - Find : 48444153
+  - Replace with : 48444546
 
-Change SAT0 to SATA
-Find : 53415430
-Replace with : 53415441
+- Change SAT0 to SATA
+  - Find : 53415430
+  - Replace with : 53415441
 
 Check :
 - FixAirport
