@@ -102,6 +102,7 @@ Add the following kext in **/EFI/kexts/Other**
 
 Use the following guide to generate a patched ssdt for CPU Power Management
 https://www.tonymacx86.com/threads/quick-guide-to-generate-a-ssdt-for-cpu-power-management.177456/
+
 Use the following guide to generate a patched ssdt for injecting USB Port
 https://www.tonymacx86.com/threads/guide-creating-a-custom-ssdt-for-usbinjectall-kext.211311/
 
