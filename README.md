@@ -17,7 +17,7 @@ Product N° 1ND88ET#ABF
 Wireless LAN : Replaced Intel M.2 Combo Card with M.2 Combo Card for Lenovo Y50-70 with Broadcom Chipset BCM94352Z NGFF 802.11ac Wifi + Bluetooth 
 ```
 ## Known Issues
-Conexant CX20632 requires VoodooHDA.kext which is incompatible with HDMI Audio. If you wish to use HDMI Audio output replace VoodooHDA.kext with AppleALC.kext and inject audio channel 11
+Conexant CX20632 requires VoodooHDA.kext which is incompatible with HDMI Audio. If you wish to use HDMI Audio output replace VoodooHDA.kext with AppleALC.kext and inject audio channel 11.
 Skylake Sleep issue cause reboot on wake. Disable sleep in Engergy Settings.
 
 ## Installation
