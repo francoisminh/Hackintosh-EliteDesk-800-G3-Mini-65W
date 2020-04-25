@@ -171,3 +171,7 @@ Replace with : 81F952AA 00006690
 use iMac17,1 (Late 2015)
 
 **If you use the attached config.plist generate a new Serial Number and a new SmUUID**
+
+
+** UPDATE - Catalina ***
+New EFI folder for Catalina Installation. I switched my old Elitedesk Intel Core i5-6500 for a i5-7500T but this EFI should also work for i5 6500 models.
